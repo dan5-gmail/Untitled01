@@ -3,7 +3,7 @@
     width: 120px;
     height: 80px;
 
-    backgroundcolor: #f9c3ff;
+    background-color: #f9c3ff;
     font-family: sans-serif;
     border-radius: 50px;
     border: none;
@@ -14,5 +14,5 @@
 .aaa{
     width: 80px;
     height: 60px;
-    border-radius: 30%;
+    font-family: UTF-8;
 }

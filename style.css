@@ -14,7 +14,7 @@
     overflow: hidden;
     z-index: 0;
     
-    transform: translate(50px, -20px);
+    transform: translate(150px, 50px);
 
 }
 
@@ -23,7 +23,7 @@
     position: absolute;
 
     top: 0;
-    left: 0;
+    left: -10;
 
     width: 270%;
     height: 100%;

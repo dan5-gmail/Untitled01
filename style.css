@@ -22,13 +22,13 @@
     top: 0;
     left: 0;
 
-    width: 255%;
+    width: 270%;
     height: 100%;
 
     background-color: #c0c0c0;
 
     transform: scaleX(0);
-    transform.origin: right;
+    transform.origin: left;
 
     transition: transform 0.5s ease;
 

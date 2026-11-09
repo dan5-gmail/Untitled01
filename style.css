@@ -1,8 +1,13 @@
 .aa{
+    
     width: 120px;
     height: 80px;
+
+    backgroundcolor: #f9c3ff;
     font-family: sans-serif;
-    border-radius: 50%;
+    border-radius: 50px;
+    border: none;
+    font-size: 40px;
     
 }
 

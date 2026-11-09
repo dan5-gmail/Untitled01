@@ -8,6 +8,34 @@
     border-radius: 100px;
     border: none;
     font-size: 25px;
+
+    position: relative;
+    overflow: hidden;
+    z-index: 0;
+}
+
+.aa::before{
+    content:"";
+    position: absolute;
+
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    background-color: #0c0a06;
+
+    transform: scaleX(0);
+    transform.origin: left;
+
+    transition: transform 0.5s ease;
+
+    z-index: -1;
+}
+
+.aa:hover::before{
+    transform: scaleX(1);
 }
 
 .aa:hover {

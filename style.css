@@ -8,13 +8,13 @@
     border-radius: 100px;
     border: none;
     font-size: 25px;
-    color: #000000;
+    color: #696969;
 
     position: relative;
     overflow: hidden;
     z-index: 0;
     
-    transform: translate(300px, 100px);
+    transform: translate(500px, 200px);
 
 }
 

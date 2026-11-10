@@ -61,5 +61,10 @@
 .choosebutton01{
     width: 100px;
     height: 50px;
-     transform: translate( 500px, 100px);
+     transform: translate( 400px, 75px);
+    background-color: #d3d3d3;
+}
+
+.choosebutton01:hover{
+    background-color: #c0c0c0;
 }

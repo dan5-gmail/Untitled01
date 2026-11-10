@@ -65,6 +65,11 @@
     background-color: #d3d3d3;
 }
 
-.choosebutton01:hover{
+.choosebutton01:hover::before{
     background-color: #c0c0c0;
 }
+
+.choosebutton01:hover::after{
+    backgound-color: #d3d3d3;
+}
+

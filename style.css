@@ -54,5 +54,11 @@
 .aaa{
     width: 80px;
     height: 60px;
-    font-family: UTF-8;
+    font-family: sans-serif;
+}
+
+.choosebutton01{
+    width: 150px;
+    height: 90px;
+    
 }

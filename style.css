@@ -31,7 +31,7 @@
     background-color: #808080;
 
     transform: scaleX(0);
-    transform.origin: left;
+    transform-origin: left;
 
     transition: transform 0.5s ease;
 

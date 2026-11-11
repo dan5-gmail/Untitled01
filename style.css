@@ -86,6 +86,7 @@
     font-size:75px;
 
     transform: relative;    
+    trabsform: translate(100px, 1000px);
 }
 
 .a01:before{

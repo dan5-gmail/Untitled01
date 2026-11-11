@@ -89,5 +89,8 @@
 }
 
 .a01:before{
-    content= "a";
+  transform: translate(90px, 100px);
+    width: 150px;
+    height: 100px;
+    
 }

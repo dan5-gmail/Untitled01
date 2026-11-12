@@ -95,3 +95,12 @@
     height: 100px;
     
 }
+
+
+.Square{
+
+    width: 1000px;
+    height: 200px;
+
+    border-radius: 0px;
+}

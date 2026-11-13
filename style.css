@@ -100,9 +100,11 @@
 .square{
 
     width: 1000px;
-    height: 200px;
+    height: 150px;
 
     border-radius: 0px;
+
+    transform: translate(500px, -250px);
 
     background-color: #4a4a4a;
 }

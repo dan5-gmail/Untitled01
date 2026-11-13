@@ -99,12 +99,12 @@
 
 .square{
 
-    width: 1000px;
+    width: 1500px;
     height: 150px;
 
     border-radius: 0px;
 
-    transform: translate(250px, -200px);
+    transform: translate(0px, -225px);
 
     background-color: #4a4a4a;
     position: fixed;

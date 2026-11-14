@@ -1,5 +1,7 @@
 .body{
     line-height: 1;
+
+    padding: 50px;
 }
 
 .aa{
@@ -37,6 +39,10 @@
     transform: scaleX(0);
     transform-origin: left;
 
+    cursor: pointer;
+
+    transition: trasnform 0.3s ease;
+
     transition: transform 0.5s ease;
 
     z-index: -1;
@@ -51,6 +57,10 @@
 
     top: 0;
     right: 0;
+}
+
+.aa:hover::active{
+    transform: scale(0.8);
 }
 
 

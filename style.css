@@ -52,7 +52,7 @@
 
 .aa:hover::before{
     transform: scaleX(1);
-    color: ffffff;
+    color: #ffffff;
 }
 
 .aa:hover::after{

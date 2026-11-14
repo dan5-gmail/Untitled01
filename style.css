@@ -51,8 +51,9 @@
 }
 
 .aa:hover::before{
-    transform: scaleX(1);
     color: #ffffff;
+    transform: scaleX(1);
+    
 }
 
 .aa:hover::after{

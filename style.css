@@ -50,8 +50,11 @@
     z-index: -1;
 }
 
-.aa:hover::before{
+.aa:hover{
     color: #ffffff;
+}
+
+.aa:hover::before{
     transform: scaleX(1);
     
 }

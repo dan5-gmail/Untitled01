@@ -131,3 +131,8 @@
     position: fixed;
     z-index: 10
 }
+
+.slideSquare01{
+   background-color: #f1f1f1;
+    transform: translate(-50px, 1000px);
+    

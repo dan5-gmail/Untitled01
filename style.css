@@ -134,5 +134,12 @@
 
 .slideSquare01{
    background-color: #f1f1f1;
-    transform: translate(-50px, 1000px);
+
+    width: 2500px;
+    height: 100px;
     
+    transform: translate(-50px, 1000px);
+    transform: ScaleX(0);
+    transform-origin: left;
+    transition: trnsform 0.3s ease;
+    transform: ScaleX(1)

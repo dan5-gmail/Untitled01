@@ -139,9 +139,23 @@
     height: 500px;
 
    
+        animation: appear linear both;
+    animation-timeline: view();
+    animation-range: entry 0% entry 100%;
     
     transform: translate(-100px, 1000px);
     transform: ScaleX(0);
     transform-origin: left;
     transition: trnsform 0.3s ease;
     transform: ScaleX(1);
+}
+
+@keyframes appear {
+    from {
+        ScaleX(0);
+    }
+
+    to {
+        ScaleX(2);
+    }
+}

@@ -144,15 +144,15 @@
 
     position: relative;
     left: -100px;
-    top: 2000px;
+    top: 1200px;
 }
 
 @keyframes appear {
     from {
-        transform: scaleX(0);
+        transform: scaleX(0.2);
     }
 
     to {
-        transform: scaleX(1);
+        transform: scaleX(2);
     }
 }

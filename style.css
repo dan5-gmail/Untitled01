@@ -146,8 +146,7 @@
     transform: translate(-100px, 1000px);
     transform: ScaleX(0);
     transform-origin: left;
-    transition: trnsform 0.3s ease;
-    transform: ScaleX(1);
+    transition: transform ease 0.3s;
 }
 
 @keyframes appear {

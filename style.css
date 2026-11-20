@@ -136,14 +136,14 @@
    background-color: #010101;
 
     width: 1500px;
-    height: 500px;
+    height: 600px;
 
    
         animation: appear linear both;
     animation-timeline: view();
     animation-range: entry 0% entry 100%;
     
-    transform: translate(-100px, 1000px);
+    transform: translate(-100px, 2000px);
     transform: ScaleX(0);
     transform-origin: left;
     transition: transform ease 0.3s;

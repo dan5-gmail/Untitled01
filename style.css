@@ -135,8 +135,8 @@
 .slideSquare01 {
     background-color: #010101;
 
-    width: 1500px;
-    height: 1250px;
+    width: 2000px;
+    height: 500px;
 
     animation: appear linear both;
     animation-timeline: view();
@@ -150,7 +150,7 @@
 
 @keyframes appear {
     from {
-        transform: scaleX(0.65);
+        transform: scaleX(0);
     }
 
     to {

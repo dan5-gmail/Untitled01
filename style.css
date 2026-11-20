@@ -136,7 +136,7 @@
     background-color: #010101;
 
     width: 1500px;
-    height: 750px;
+    height: 1250px;
 
     animation: appear linear both;
     animation-timeline: view();
@@ -157,3 +157,8 @@
         transform: scaleX(1.5);
     }
 }
+
+
+
+
+

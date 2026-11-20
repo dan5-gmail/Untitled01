@@ -145,6 +145,7 @@
     position: relative;
     left: -100px;
     top: 1200px;
+    transform-origin: right;
 }
 
 @keyframes appear {

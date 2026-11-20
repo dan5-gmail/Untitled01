@@ -150,7 +150,7 @@
 
 @keyframes appear {
     from {
-        transform: scaleX(0.1);
+        transform: scaleX(0.75);
     }
 
     to {

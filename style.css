@@ -136,7 +136,7 @@
     background-color: #010101;
 
     width: 1500px;
-    height: 600px;
+    height: 750px;
 
     animation: appear linear both;
     animation-timeline: view();
@@ -150,7 +150,7 @@
 
 @keyframes appear {
     from {
-        transform: scaleX(0.5);
+        transform: scaleX(0.65);
     }
 
     to {
